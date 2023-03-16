@@ -11,8 +11,8 @@
 ### Termine
 
 * 09.03. HTML (Hypertext Markup Language) & Arbeitstechniken (Visual Studio Code & GIT)
-* 16.03. HTML & CSS (Cascading Stylesheets)
-* 23.03. CSS & Leaflet/Javascript Erstkontakt
+* 16.03. HTML & Leaflet/Javascript Erstkontakt
+* 23.03. CSS (Cascading Stylesheets)
 * 30.03. Javascript
 
 * **Osterferien**
