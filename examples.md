@@ -7,4 +7,4 @@
 * Howtos:
     * [HTML Grundgerüst](https://webmapping.github.io/nz/howto_html)
 * Etappenzuteilung:
-    * siehe OLAT Kurse, nz_etappen.ods
+    * siehe OLAT Kurse, `nz_etappen.ods`
