@@ -12,7 +12,13 @@ t.b.a.
 
 ## Webtools / helpers
 
-t.b.a.
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](https://fontawesome.com/)
+- CSS Farben
+    - [MDN - &lt;color>](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
+    - [MDN - &lt;named_color>](https://developer.mozilla.org/en-US/docs/Web/CSS/named-color)
+    - [Colors - A nicer color palette for the web](https://clrs.cc/)
+    - [ColorBrewer: Color Advice for Maps](https://colorbrewer2.org/)
 
 ### Bilder
 
@@ -36,3 +42,4 @@ t.b.a.
 - [Visual Studio Code Editor](https://code.visualstudio.com/)
 - [GIMP - GNU Image Manipulation Program](https://www.gimp.org/)
 - [QGIS - A Free and Open Source Geographic Information System](https://www.qgis.org/)
+- [LibreOffice](https://de.libreoffice.org/)
