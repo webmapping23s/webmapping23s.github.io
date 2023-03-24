@@ -1,5 +1,3 @@
-## Workload für die Woche vom 31. März bis 7. April 2022
-
 ## Workload für die Woche vom 23. bis 30. März 2023
 
 ### CSS Online Tutorials der *Codecademy*
