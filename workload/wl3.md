@@ -1,6 +1,6 @@
 ## Workload für die Woche vom 23. bis 30. März 2023
 
-### CSS Online Tutorials der *Codecademy*
+### Javascript Online Tutorials der *Codecademy*
 
 Diese beiden Tutorials eigenständig bis spätestens **Donnerstag, 30. März 2023 mittags** abschließen:
 
