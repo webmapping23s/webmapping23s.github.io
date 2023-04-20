@@ -13,13 +13,13 @@
 * 09.03. HTML (Hypertext Markup Language) & Arbeitstechniken (Visual Studio Code & GIT)
 * 16.03. HTML & Leaflet/Javascript Erstkontakt
 * 23.03. CSS (Cascading Stylesheets)
-* 30.03. Javascript
+* 30.03. Javascript & Leaflet Basics: Marker, Popups, Hintergrundlayer mit Providers Plugin
 
 * **Osterferien**
 
-* 20.04. Leaflet Basics: Hintergrundlayer, Overlays, Interface Plugins
-* 27.04. GeoJSON Punkte als Icons, async functions, await fetch
-* 04.05. GeoJSON Linien und Flächen mit Styling, Markercluster Plugin, Feature-Suche
+* 20.04. GeoJSON Visualisierung mit Overlays und  Popups
+* 27.04. GeoJSON Punkte, Linien und Flächen stylen
+* 04.05. GeoJSON Feature-Suche mit datalist, Markercluster Plugin, Minimap Plugin
 * 11.05. App: Wetterstationen mit DivIcons und thematischer Darstellung, RainViewer Plugin
 * 25.05. App: Wettervorhersagen Wind & Wetter, Leaflet Velocity
 * 01.06. App: Höhenprofile aus GPX-Dateien, GeoJSON aus Shapefiles, JSON aus CSV
