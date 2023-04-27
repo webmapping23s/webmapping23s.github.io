@@ -5,15 +5,14 @@
 - [Leaflet Homepage](https://leafletjs.com/)
 - [Leaflet Dokumentation](https://leafletjs.com/reference.html)
 - [Leaflet Plugins](https://leafletjs.com/plugins.html)
-
-## Daten der Beispiele
-
-t.b.a.
+    - [Leaflet Providers](https://github.com/leaflet-extras/leaflet-providers) ([Demo](http://leaflet-extras.github.io/leaflet-providers/preview/index.html))
+    - [Leaflet Fullscreen](https://github.com/Leaflet/Leaflet.fullscreen) ([Demo](https://leaflet.github.io/Leaflet.fullscreen/))
 
 ## Webtools / helpers
 
 - [Google Fonts](https://fonts.google.com/)
 - [Font Awesome](https://fontawesome.com/)
+- [Map Icons Collection](https://mapicons.mapsmarker.com/)
 - CSS Farben
     - [MDN - &lt;color>](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
     - [MDN - &lt;named_color>](https://developer.mozilla.org/en-US/docs/Web/CSS/named-color)

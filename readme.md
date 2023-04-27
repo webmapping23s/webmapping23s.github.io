@@ -19,7 +19,7 @@
 
 * 20.04. GeoJSON Visualisierung mit Overlays und  Popups
 * 27.04. GeoJSON Punkte, Linien und Flächen stylen
-* 04.05. GeoJSON Feature-Suche mit datalist, Markercluster Plugin, Minimap Plugin
+* 04.05. Leaflet Plugins Markercluster, Minimap, Hash, GeoLocation
 * 11.05. App: Wetterstationen mit DivIcons und thematischer Darstellung, RainViewer Plugin
 * 25.05. App: Wettervorhersagen Wind & Wetter, Leaflet Velocity
 * 01.06. App: Höhenprofile aus GPX-Dateien, GeoJSON aus Shapefiles, JSON aus CSV
