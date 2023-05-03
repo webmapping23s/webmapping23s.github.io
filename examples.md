@@ -4,6 +4,7 @@
 
 * Web: <https://webmapping.github.io/wien/index.html>
 * Repo: <https://github.com/webmapping/wien>
+* Template: <https://webmapping.github.io/templates/template_wien.zip>
 * Daten:
     * [basemap.at - Verwaltungsgrundkarte von Österreich](https://basemap.at/)
     * [Sehenswürdigkeiten Standorte Wien](https://www.data.gv.at/katalog/de/dataset/stadt-wien_sehenswrdigkeitenstandortewien)
