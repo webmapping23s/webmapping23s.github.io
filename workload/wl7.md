@@ -1,6 +1,6 @@
 # Workload für die Woche vom 4. bis 11. Mai 2023
 
-## Wetterstationen Euregio Beispiel vobereiten
+## Wetterstationen Euregio Beispiel vorbereiten
 
 1. erstellt auf github.com ein neues public Repo `aws-euregio`
 
