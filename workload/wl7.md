@@ -9,7 +9,7 @@
 3. implementiert Icons für die Wetterstationen in der asynchronen Funktion `showStations`
     - verwendet das Icon `wifi` der [Map Icons Collection](https://mapicons.mapsmarker.com/)
     - wählt <https://clrs.cc> OLIVE als Icon-Farbe
-    - speichert das Icon im `icons` Unterverzeichnis als `icons.png`
+    - speichert das Icon im `icons` Unterverzeichnis als `wifi.png`
 
 4. erstellt auch Popups für die Stationen mit
     - Name der Station und Seehöhe als Überschrift
