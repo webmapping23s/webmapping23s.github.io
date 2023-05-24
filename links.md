@@ -7,6 +7,11 @@
 - [Leaflet Plugins](https://leafletjs.com/plugins.html)
     - [Leaflet Providers](https://github.com/leaflet-extras/leaflet-providers) ([Demo](http://leaflet-extras.github.io/leaflet-providers/preview/index.html))
     - [Leaflet Fullscreen](https://github.com/Leaflet/Leaflet.fullscreen) ([Demo](https://leaflet.github.io/Leaflet.fullscreen/))
+    - [Leaflet.MiniMap](https://github.com/Norkart/Leaflet-MiniMap) ([Demo](https://norkart.github.io/Leaflet-MiniMap/example.html))
+    - [Leaflet-hash](https://github.com/mlevans/leaflet-hash) ([Demo](https://mlevans.com/leaflet-hash/map.html#12/37.7630/-122.4437))
+    - [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) ([Demo](https://leaflet.github.io/Leaflet.markercluster/example/marker-clustering-realworld.388.html))
+    - [Leaflet.Rainviewer](https://github.com/mwasil/Leaflet.Rainviewer) ([Demo](https://mwasil.github.io/Leaflet.Rainviewer/demo/))
+    - [Leaflet.velocity](https://github.com/onaci/leaflet-velocity) ([Demo](https://onaci.github.io/leaflet-velocity/))
 
 ## Webtools / helpers
 
