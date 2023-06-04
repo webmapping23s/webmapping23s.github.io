@@ -1,5 +1,16 @@
 # Arbeitsbeispiele
 
+## Bike Trail Tirol
+
+* Web: <https://webmapping.github.io/biketirol/index.html>
+* Repo: <https://github.com/webmapping/biketirol>
+* Template: <https://webmapping.github.io/templates/template_biketirol.zip>
+* Daten:
+    * [Bike Trail Tirol (Online Reiseführer Tirol)](https://www.tirol.at/reisefuehrer/sport/mountainbiken/bike-trail-tirol)
+    * [eGrundkarte Tirol](https://www.data.gv.at/katalog/de/dataset/land-tirol_elektronischekartetirol)
+* Etappenzuteilung:
+    * siehe OLAT Kurse, `biketirol_etappen.ods`
+
 ## Wettervorhersagen & Wind Visualisierung
 
 * Web: <https://webmapping.github.io/forecast/index.html>

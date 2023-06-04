@@ -12,6 +12,7 @@
     - [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) ([Demo](https://leaflet.github.io/Leaflet.markercluster/example/marker-clustering-realworld.388.html))
     - [Leaflet.Rainviewer](https://github.com/mwasil/Leaflet.Rainviewer) ([Demo](https://mwasil.github.io/Leaflet.Rainviewer/demo/))
     - [Leaflet.velocity](https://github.com/onaci/leaflet-velocity) ([Demo](https://onaci.github.io/leaflet-velocity/))
+    - [leaflet-elevation](https://github.com/Raruto/leaflet-elevation) ([Demo](https://raruto.github.io/leaflet-elevation/examples/leaflet-elevation.html))
 
 ## Webtools / helpers
 
