@@ -51,5 +51,5 @@ Alle drei Bestandteile müssen positiv absolviert werden.
 * [Workload](https://webmapping23s.github.io/workload/index)
 * [Gruppenprojekt](https://webmapping23s.github.io/projects)
 * [OLAT-Kurs](https://lms.uibk.ac.at/url/RepositoryEntry/5400232120)
-* [https://github.com/webmapping](https://github.com/webmapping)
+* [https://github.com/webmapping23s](https://github.com/webmapping23s)
 * [https://webmapping23s.github.io](https://webmapping23s.github.io)

@@ -3,7 +3,7 @@
 ## Bike Trail Tirol
 
 * Web: <https://webmapping23s.github.io/biketirol/index.html>
-* Repo: <https://github.com/webmapping/biketirol>
+* Repo: <https://github.com/webmapping23s/biketirol>
 * Template: <https://webmapping23s.github.io/templates/template_biketirol.zip>
 * Daten:
     * [Bike Trail Tirol (Online Reiseführer Tirol)](https://www.tirol.at/reisefuehrer/sport/mountainbiken/bike-trail-tirol)
@@ -14,7 +14,7 @@
 ## Wettervorhersagen & Wind Visualisierung
 
 * Web: <https://webmapping23s.github.io/forecast/index.html>
-* Repo: <https://github.com/webmapping/forecast>
+* Repo: <https://github.com/webmapping23s/forecast>
 * Template: <https://webmapping23s.github.io/templates/template_forecast.zip>
 * Daten:
     * [MET Norway Locationforecast](https://api.met.no/weatherapi/locationforecast/2.0/documentation)
@@ -28,7 +28,7 @@
 ## Wetterstationen Euregio
 
 * Web: <https://webmapping23s.github.io/aws-euregio/index.html>
-* Repo: <https://github.com/webmapping/aws-euregio>
+* Repo: <https://github.com/webmapping23s/aws-euregio>
 * Template: <https://webmapping23s.github.io/templates/template_aws-euregio.zip>
 * Daten:
     * [Lawinenvorhersage | Lawinen.report](https://lawinen.report/bulletin/latest)
@@ -39,13 +39,13 @@
 ## Mobile
 
 * Web: <https://webmapping23s.github.io/mobile/index.html>
-* Repo: <https://github.com/webmapping/mobile>
+* Repo: <https://github.com/webmapping23s/mobile>
 * Template: <https://webmapping23s.github.io/templates/template_wien.zip>
 
 ## Wien
 
 * Web: <https://webmapping23s.github.io/wien/index.html>
-* Repo: <https://github.com/webmapping/wien>
+* Repo: <https://github.com/webmapping23s/wien>
 * Template: <https://webmapping23s.github.io/templates/template_wien.zip>
 * Daten:
     * [basemap.at - Verwaltungsgrundkarte von Österreich](https://basemap.at/)
@@ -62,7 +62,7 @@
 ## Neuseelandreise
 
 * Web: <https://webmapping23s.github.io/nz/index.html>
-* Repo: <https://github.com/webmapping/nz>
+* Repo: <https://github.com/webmapping23s/nz>
 * Howtos:
     * [HTML Grundgerüst](https://webmapping23s.github.io/nz/howto_html)
     * [Übersichtskarte](https://webmapping23s.github.io/nz/howto_map)
