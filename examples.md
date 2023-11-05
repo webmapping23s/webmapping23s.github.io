@@ -31,8 +31,8 @@
 * Repo: <https://github.com/webmapping23s/aws-euregio>
 * Template: <https://webmapping23s.github.io/templates/template_aws-euregio.zip>
 * Daten:
-    * [Lawinenvorhersage | Lawinen.report](https://lawinen.report/bulletin/latest)
-    * [Open Data | Lawinen.report](https://lawinen.report/more/open-data)
+    * [Lawinenvorhersage - Lawinen.report](https://lawinen.report/bulletin/latest)
+    * [Open Data - Lawinen.report](https://lawinen.report/more/open-data)
     * [GeoJSON Daten](https://static.avalanche.report/weather_stations/stations.geojson)
     * [Metadaten](https://www.data.gv.at/katalog/de/dataset/land-tirol_wetterstationsdatentirol)
 
