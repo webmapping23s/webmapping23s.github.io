@@ -32,7 +32,7 @@
 
 * 1/3 **Anwesenheit & aktive Mitarbeit**: maximal 2 Einheiten fehlen. Versäumte Inhalte müssen bis zur nächsten Sitzung selbständig nachgeholt werden.
 * 1/3 **Workload zwischen den Einheiten**: bis zum jeweiligen Abgabetermin zu erfüllen.
-* 1/3 **Gruppenprojekt**: [Web-Applikation mit Präsentation](https://webmapping.github.io/projects)
+* 1/3 **Gruppenprojekt**: [Web-Applikation mit Präsentation](https://webmapping23s.github.io/projects)
 
 Alle drei Bestandteile müssen positiv absolviert werden.
 
@@ -45,11 +45,11 @@ Alle drei Bestandteile müssen positiv absolviert werden.
 
 ### Links
 
-* [Linksammlung](https://webmapping.github.io/links)
-* [Link Checker](https://webmapping.github.io/linkchecker.html)
-* [Arbeitsbeispiele](https://webmapping.github.io/examples)
-* [Workload](https://webmapping.github.io/workload/index)
-* [Gruppenprojekt](https://webmapping.github.io/projects)
+* [Linksammlung](https://webmapping23s.github.io/links)
+* [Link Checker](https://webmapping23s.github.io/linkchecker.html)
+* [Arbeitsbeispiele](https://webmapping23s.github.io/examples)
+* [Workload](https://webmapping23s.github.io/workload/index)
+* [Gruppenprojekt](https://webmapping23s.github.io/projects)
 * [OLAT-Kurs](https://lms.uibk.ac.at/url/RepositoryEntry/5400232120)
 * [https://github.com/webmapping](https://github.com/webmapping)
-* [https://webmapping.github.io](https://webmapping.github.io)
+* [https://webmapping23s.github.io](https://webmapping23s.github.io)

@@ -12,7 +12,7 @@ In zwei Wochen werden wir Wetterdaten von  MET Norway visualisieren und damit wi
 
 1. erstellt auf github.com ein neues public Repo `forecast`
 
-2. cloned es lokal und packt das [Wettervorhersage Template](https://webmapping.github.io/templates/template_forecast.zip) dort aus
+2. cloned es lokal und packt das [Wettervorhersage Template](https://webmapping23s.github.io/templates/template_forecast.zip) dort aus
 
 3. pushed alles zurück zu github.com und macht das Repo über die Settings online verfügbar
 

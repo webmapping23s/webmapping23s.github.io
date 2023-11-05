@@ -4,7 +4,7 @@
 
 1. erstellt auf github.com ein neues public Repo `biketirol`
 
-2. cloned es lokal und packt das [Bike Trail Tirol Template](https://webmapping.github.io/templates/template_biketirol.zip) dort aus
+2. cloned es lokal und packt das [Bike Trail Tirol Template](https://webmapping23s.github.io/templates/template_biketirol.zip) dort aus
 
 3. löst alle TODO: Marker in `index.html` auf. Die Etappenzuweisung findet ihr im OLAT Kurs im Ordner unter `biketirol_etappen.ods`
 
